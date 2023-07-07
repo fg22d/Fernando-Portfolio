@@ -1,4 +1,4 @@
-# Fernando-Portfolio
+# Fernando_Portfolio
 Showcasing some of my Data Analytics projects to show proficiency in industry skills and tools 
 
 # [Project 1: Kaggle Competition: Novozymes Enzyme Stability Prediction](https://colab.research.google.com/drive/1Qmj3DgOgoaARsjxERBxO35f8eJePev-y)
@@ -6,3 +6,5 @@ Showcasing some of my Data Analytics projects to show proficiency in industry sk
 enzyme thermostability.
 • Employed statistical modeling techniques to develop predictive models for enzyme thermostability, leveraging regression analysis and
 machine learning algorithms.
+
+# [Project 2: Naive Bayes Classification Model](https://colab.research.google.com/drive/1nsIyHmnMVSM_nFKsmEQYppEoMoGVxV67)
