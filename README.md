@@ -7,7 +7,7 @@ enzyme thermostability.
 • Employed statistical modeling techniques to develop predictive models for enzyme thermostability, leveraging regression analysis and
 machine learning algorithms.
 
-# [Project 2: Text Mining and Sentiment Analysis Model] (https://colab.research.google.com/drive/1_77R-lojVZFk8ZQ5qbx15E1GDCLidmc-)
+# [Project 2: Text Mining and Sentiment Analysis Model](https://colab.research.google.com/drive/1_77R-lojVZFk8ZQ5qbx15E1GDCLidmc-)
 •
 •
 
