@@ -7,9 +7,7 @@ enzyme thermostability.<br>
 • Employed statistical modeling techniques to develop predictive models for enzyme thermostability, leveraging regression analysis and
 machine learning algorithms. <be>
 
-<img src= /fg22d/Fernando_Portfolio/blob/main/Images/git_1.PNG class="img-responsive" alt=""> </div>
-
-<img src="https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/git_1.PNG" class="img-responsive" alt=""> </div>
+<img src="https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/git_1.png" class="img-responsive" alt=""> </div>
 
 # [Project 2: Text Mining and Sentiment Analysis Model](https://colab.research.google.com/drive/1_77R-lojVZFk8ZQ5qbx15E1GDCLidmc-)
 • Performed preprocessing on Amazon review data including tokenization, lemmatization, stopword removal, and fixing contractions. <br>
