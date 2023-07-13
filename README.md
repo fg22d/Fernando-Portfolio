@@ -5,7 +5,9 @@ Showcasing some of my Data Analytics projects to show proficiency in industry sk
 • Conducted exploratory data analysis (EDA) using statistical summaries and visualizations to identify patterns and variables relevant to
 enzyme thermostability.<br>
 • Employed statistical modeling techniques to develop predictive models for enzyme thermostability, leveraging regression analysis and
-machine learning algorithms.
+machine learning algorithms. <br>
+
+![](https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/git_1.png)
 
 # [Project 2: Text Mining and Sentiment Analysis Model](https://colab.research.google.com/drive/1_77R-lojVZFk8ZQ5qbx15E1GDCLidmc-)
 • Performed preprocessing on Amazon review data including tokenization, lemmatization, stopword removal, and fixing contractions. <br>
