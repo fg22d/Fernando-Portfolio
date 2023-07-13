@@ -12,9 +12,12 @@ machine learning algorithms. <br>
 # [Project 2: Text Mining and Sentiment Analysis Model](https://colab.research.google.com/drive/1_77R-lojVZFk8ZQ5qbx15E1GDCLidmc-)
 • Performed preprocessing on Amazon review data including tokenization, lemmatization, stopword removal, and fixing contractions. <br>
 • Compared multiple classification models including decision trees and neural networks to predict sentiment from reviews. Achieved over 80% accuracy. <br>
-• Implemented a sentiment analysis dictionary-based approach using VADER. Achieved 83% accuracy in classifying positive and negative reviews.
+• Implemented a sentiment analysis dictionary-based approach using VADER. Achieved 83% accuracy in classifying positive and negative reviews. <br>
+
+![](https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/Git_2.png)
 
 # [Project 3: Naive Bayes Classification Model](https://colab.research.google.com/drive/1nsIyHmnMVSM_nFKsmEQYppEoMoGVxV67)
-•
-•
+• <br>
+• <br>
 
+![](https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/Git_3.png)
