@@ -7,4 +7,11 @@ enzyme thermostability.
 • Employed statistical modeling techniques to develop predictive models for enzyme thermostability, leveraging regression analysis and
 machine learning algorithms.
 
-# [Project 2: Naive Bayes Classification Model](https://colab.research.google.com/drive/1nsIyHmnMVSM_nFKsmEQYppEoMoGVxV67)
+# [Project 2: Text Mining and Sentiment Analysis Model] (https://colab.research.google.com/drive/1_77R-lojVZFk8ZQ5qbx15E1GDCLidmc-)
+•
+•
+
+# [Project 3: Naive Bayes Classification Model](https://colab.research.google.com/drive/1nsIyHmnMVSM_nFKsmEQYppEoMoGVxV67)
+•
+•
+
