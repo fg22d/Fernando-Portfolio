@@ -17,7 +17,8 @@ machine learning algorithms. <br>
 ![](https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/Git_2.png)
 
 # [Project 3: Naive Bayes Classification Model](https://colab.research.google.com/drive/1nsIyHmnMVSM_nFKsmEQYppEoMoGVxV67)
-• <br>
-• <br>
+• Demonstrated ability to clean real-world datasets by handling missing values, removing duplicates, binning/categorizing variables, and one-hot encoding categorical features. This process transforms raw data into a format ready for modeling.<br>
+• Applied Naive Bayes classification to predict the likelihood that a customer will have a positive response. This involved separating target data, fitting a BernoulliNB model, and making predictions on new data.<br>
+• Enhanced model predictions by engineering a new feature that estimated customer value based on region and response probability. Sorted customers by this expected value to identify top targets. <br>
 
 ![](https://github.com/fg22d/Fernando_Portfolio/blob/main/Images/Git_3.png)
